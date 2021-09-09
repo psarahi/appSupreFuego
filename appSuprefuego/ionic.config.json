@@ -1,0 +1,7 @@
+{
+  "name": "appSuprefuego",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
